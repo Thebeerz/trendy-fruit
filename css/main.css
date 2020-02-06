@@ -12,11 +12,15 @@ html {
   -webkit-text-size-adjust: 100%;
   text-size-adjust: 100%;
 
-  font-family: "open sans", sans-serif;
+  font-family: "Open Sans", sans-serif;
 }
 
 *, *::before, *::after {
   box-sizing: inherit;
+}
+
+body {
+  margin: 0;
 }
 
 .watermelon {
@@ -35,5 +39,5 @@ html {
 }
 
 p {
-  font-family: "open sans", sans-serif;
+  font-family: "Open Sans", sans-serif;
 }
